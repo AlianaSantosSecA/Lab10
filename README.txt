@@ -1,0 +1,2 @@
+Welcome to the Fashion Website project! This repository contains the source code for a fashion-themed website built using HTML, CSS, and Bootstrap.
+This website is designed to showcase various fashion styles and provide information about careers in the fashion industry. It includes sections for browsing different fashion categories and career opportunities.
